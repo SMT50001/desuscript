@@ -1,5 +1,1 @@
-Makefile*
-desuscript*
-cmake_install.cmake
-CMakeCache.txt
-CMakeFiles/
+/build/
